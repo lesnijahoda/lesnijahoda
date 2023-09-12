@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-![alt text]![image](https://github.com/lesnijahoda/lesnijahoda/assets/115625778/536f9ecd-8dbf-4ba3-bfd1-7160910eed62)
+![alt text](https://github.com/lesnijahoda/lesnijahoda/assets/115625778/536f9ecd-8dbf-4ba3-bfd1-7160910eed62)
 
 
 
