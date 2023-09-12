@@ -12,6 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  ![alt text](![image](https://github.com/lesnijahoda/lesnijahoda/assets/115625778/cb7a7f0d-ac12-4362-85f5-66a1fc2f1484)
+)
+
 </p>
 
 
