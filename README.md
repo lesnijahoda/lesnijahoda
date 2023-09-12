@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**lesnijahoda/lesnijahoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Jan</h1>
+<h3 align="center">I wanna become future programmer and make money so get out of my profile</h3>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **java, javascript :)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **pls dont**
+
+- 📫 How to reach me **you cant unless u are my teacher :)**
+
+- ⚡ Fun fact **literally nothing**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
