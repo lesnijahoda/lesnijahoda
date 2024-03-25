@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jan</h1>
-<h3 align="center">I wanna become future programmer and make money so get out of my profile</h3>
+<h3 align="center">I wanna become future programmer and make money.</h3>
 
 - 🌱 I’m currently learning **java, javascript :)**
 
