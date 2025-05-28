@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **C/C++ :)**
 
-- 💬 Ask me about **C, Arduino **
+- 💬 Ask me about **C, Arduino**
 
 - 📫 How to reach me **you can reach me on jan.novak@student.spsmb.cz**
 
