@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Jan</h1>
 <h3 align="center">I wanna become future programmer and make money.</h3>
 
-- 🌱 I’m currently learning **C/C++, javascript :)**
+- 🌱 I’m currently learning **C/C++ :)**
 
-- 💬 Ask me about **C :(**
+- 💬 Ask me about **C, Arduino **
 
 - 📫 How to reach me **you can reach me on jan.novak@student.spsmb.cz**
 
