@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **C/C++, javascript :)**
 
-- 💬 Ask me about **pls dont**
+- 💬 Ask me about **C :(**
 
 - 📫 How to reach me **you can reach me on jan.novak@student.spsmb.cz**
 
