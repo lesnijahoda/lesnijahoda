@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Jan</h1>
 <h3 align="center">I wanna make money through IT.</h3>
 
-- 🌱 I’m currently learning **C++,:)**
+- 🌱 I’m currently learning **JAVA, BASH**
 
-- 💬 Ask me about **C, Arduino, ESP32, linux**
+- 💬 Ask me about **C, C++, Arduino, ESP32, LINUX**
 
 - 📫 How to reach me **you can reach me on jan.novak@student.spsmb.cz**
 
-- ⚡ Fun fact **spsmb IT teachers carry our assies**
+- ⚡ Fun fact **graduated from SPSMB currently IN UHK**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
